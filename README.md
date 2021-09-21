@@ -8,7 +8,7 @@ The datasets are sales data and game user data.
 
 This project includes A/B testing analysis implementation and multi-armed bandit strategies implementation.
 
-<img src = './ab-testing.png' height = 250>       <img src = './images-2.png' height = 250>
+<img src = './ab-testing.png' height = 250>       <img src = './images-2.jpeg' height = 250>
 
 
 # A/B Testing
